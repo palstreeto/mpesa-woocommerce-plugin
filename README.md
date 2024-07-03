@@ -1,5 +1,7 @@
 # mpesa-woocommerce-plugin
-<p>You can now access an Mpesa woocommerce download as a plugin which we have developed from scratch to help you add Mpesa Payment method on your woocomerce store.</p>
+<p>You can now access an Mpesa woocommerce download as a plugin which we have developed from scratch to help you add Mpesa Payment method on your woocomerce store.</br>
+For support WhatsApp: <b>+254706745202</b></br>
+</p>
 <h3>Mpesa woocommerce free download</h3>
 <p>Mpesa woocommerce free download is now available as a trial version where you are able to test that the wordpress mpesa plugin works seemlessly before purchase.</p>
 <h3>Mpesa plugin STK Push MPESA API</h3>
