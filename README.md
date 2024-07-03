@@ -14,7 +14,7 @@ For support WhatsApp: <b>+254706745202</b></br>
 <h3>What is needed to Implement this Woocommerce Mpesa Payment plugin</h3>
 <ol>
 <li>Wordpress installation</li>
-<li>Wocoomerce istallation</li>
+<li>Woocommerce istallation</li>
 <li>Download and install this plugin just like any other woocommerce plugins and activate it</li>
 <li>Daraja account - developer.safaricom.co.ke</li>
 <li>Sandox and production Daraja apps with relevant consumer key, consumer secret, shortcode and passkey</li>
