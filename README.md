@@ -22,4 +22,4 @@ For support WhatsApp: <b>+254738065444</b></br>
 <li>Enter the  consumer key, consumer secret, shortcode and passkey on the above Mpesa woocommerce plugin on the woocommerce Payment settings option and activate.</li>
 </ol>
 
-<p>The above steps should work. In case of technical support throughout the installation and to ensure everything works, simply whatsapp us on +254706745202 or simply access the plugin documentation linke above for more details.</p>
+<p>The above steps should work. In case of technical support throughout the installation and to ensure everything works, simply whatsapp us on +254738065444 or simply access the plugin documentation linke above for more details.</p>
