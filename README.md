@@ -7,7 +7,7 @@ For support WhatsApp: <b>+254738065444</b></br>
 <h3>Mpesa plugin STK Push MPESA API</h3>
 <p>This Mpesa plugin implements STK Push MPESA API on any WooCommerce such that when a customer adds WC goods to cart and wants to checkout, on selecting the installed woocommerce payment method, a prompt will be sent to entered customer phone and the client will simply enter mpesa PIN to complete the transaction.</p>
 <h3>Mpesa woocommerce tutorial</h3>
-<p>If you need Mpesa woocommerce tutorial to understand how it work, you can simply go direct to the full documentation website here: [https://www.payment-plugins.com/page/integrating-mpesa-with-your-woocommerce-plugin](https://www.payment-plugins.com/product/woocommerce-mpesa-payment-gateway-plugin/)</p>
+<p>If you need Mpesa woocommerce tutorial to understand how it work, you can simply go direct to the full documentation website here: <a href="https://www.payment-plugins.com/product/woocommerce-mpesa-payment-gateway-plugin/">Woocommerce Mpesa plugin</a></p>
 <h3>Mpesa woocommerce plugin is now on Github</h3>
 <p>Mpesa woocommerce plugin is now on Github and you can download it right away. Check the attached files on this repository and test that it is working. The files demonstrate all that you need from the Mpesa API (Daraja) to have your Wp WC mpesa plugin working.</p>
 
